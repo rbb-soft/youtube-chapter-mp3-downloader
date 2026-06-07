@@ -79,7 +79,7 @@ Al terminar, la app crea una subcarpeta
 ## Estructura del proyecto
 
 ```
-youtube-to-mp3-by-chapters/
+youtube-chapter-mp3-downloader/
 ├── youtube_to_mp3_by_chapters.py   # Entry point
 ├── gui.py                          # Tkinter: ventana, threading, log
 ├── downloader.py                   # Wrapper de yt-dlp + split con ffmpeg

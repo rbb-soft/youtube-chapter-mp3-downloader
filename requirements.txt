@@ -1,0 +1,8 @@
+yt-dlp>=2024.4.9
+mutagen>=1.46
+
+# ffmpeg is also required but is a system binary, not a pip package.
+# Install via your package manager:
+#   Debian/Ubuntu: sudo apt install ffmpeg
+#   macOS:         brew install ffmpeg
+#   Windows:       https://ffmpeg.org/download.html

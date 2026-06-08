@@ -133,4 +133,4 @@ La GUI requiere un display X11/Wayland. En servidores headless no funciona
 
 ## Licencia
 
-MIT (o la que elijas — ajustá según necesidad).
+Ninguna!
